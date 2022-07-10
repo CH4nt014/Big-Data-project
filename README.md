@@ -7,7 +7,7 @@ Il progetto consiste nell'elaborazione di dati provenienti dal centro oli Tempa 
 ## Struttura del repository
 Il repository è composto da diverse cartelle e file.
 ### Main
-Nella cartella principale è contenuto il file excel dei dati dei sensori, sporchi, i dati meteo puliti dagli indici non utili a questo studio e poi lo script 'ElaborazioneDati'.
+Nella cartella principale è contenuto il file excel dei dati dei sensori, sporchi, i dati meteo puliti dagli indici non utili a questo studio e poi lo script 'ElaborazioneDati' creato utilizzando Jupyter Notebook.
 ### Dati
 Contiene i file excel dei sensori presi in considerazione, i dati meteo completi, contenenti diverse informazioni e diversi altri dati generati poi dallo script creato per l'elaborazione dati. 'Dati puliti' è il file di dati ripulito da errori e fallimenti, media oraria è stato creato per l'utilizzo su tableau, mentre i file 'mediaBenzene' sono serviti per l'analisi del traffico.
 ### Relazioni
