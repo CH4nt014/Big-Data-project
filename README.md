@@ -1,5 +1,5 @@
 
-# Progetto Big Data - Gruppo 1
+# Progetto Big Data
 
 Progetto del corso di Big Data dell'anno accademico 2021/2022 del corso di studi di ingegneria informatica dell'università della Basilicata.
 Il progetto consiste nell'elaborazione di dati provenienti dal centro oli Tempa Rossa concessi dall'ente regionale ARPAB. In particolare analizzare i dati provenienti da diverse stazioni disposte nell'area del centro oli, analizzare i dati meteo relativi al periodo preso in considerazione da ARPAB e infine i dati relativi al traffico (presunti). I dati relativi ai sensori resi disponibili da ARPAB non verranno resi disponibili.
@@ -8,8 +8,8 @@ Il progetto consiste nell'elaborazione di dati provenienti dal centro oli Tempa 
 Il repository è composto da diverse cartelle e file.
 ### Main
 Nella cartella principale è contenuto il file excel dei dati dei sensori, sporchi, i dati meteo puliti dagli indici non utili a questo studio e poi lo script 'ElaborazioneDati' creato utilizzando Jupyter Notebook.
-### Dati
-Contiene i file excel dei sensori presi in considerazione, i dati meteo completi, contenenti diverse informazioni e diversi altri dati generati poi dallo script creato per l'elaborazione dati. 'Dati puliti' è il file di dati ripulito da errori e fallimenti, media oraria è stato creato per l'utilizzo su tableau, mentre i file 'mediaBenzene' sono serviti per l'analisi del traffico.
+### Dati (non resi disponibili)
+Contiene i file excel dei sensori presi in considerazione, i dati meteo completi, contenenti diverse informazioni e diversi altri dati generati poi dallo script creato per l'elaborazione dati. 'Dati puliti' è il file di dati ripulito da errori e fallimenti, media oraria è stato creato per l'utilizzo su tableau, mentre i file 'mediaBenzene' sono serviti per l'analisi del traffico. 
 ### Relazioni
 Qui sono presenti la relazione del progetto, la presentazione powerpoint e un file spiegazione del codice scritto e utilizzato.
 ### Tableau
