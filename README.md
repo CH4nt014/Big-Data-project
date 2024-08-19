@@ -2,7 +2,7 @@
 # Progetto Big Data - Gruppo 1
 
 Progetto del corso di Big Data dell'anno accademico 2021/2022 del corso di studi di ingegneria informatica dell'università della Basilicata.
-Il progetto consiste nell'elaborazione di dati provenienti dal centro oli Tempa Rossa concessi dall'ente regionale ARPAB. In particolare analizzare i dati provenienti da diverse stazioni disposte nell'area del centro oli, analizzare i dati meteo relativi al periodo preso in considerazione da ARPAB e infine i dati relativi al traffico (presunti).
+Il progetto consiste nell'elaborazione di dati provenienti dal centro oli Tempa Rossa concessi dall'ente regionale ARPAB. In particolare analizzare i dati provenienti da diverse stazioni disposte nell'area del centro oli, analizzare i dati meteo relativi al periodo preso in considerazione da ARPAB e infine i dati relativi al traffico (presunti). I dati relativi ai sensori resi disponibili da ARPAB non verranno resi disponibili.
 
 ## Struttura del repository
 Il repository è composto da diverse cartelle e file.
@@ -18,9 +18,6 @@ Nella cartella 'Tableau' sono presenti i file di 'Andamento_Sensori' con diversi
 ## Authors
 
 - [@Antonio Rinaldi](https://github.com/CH4nt014)
-- [@Aurelia Santarsiere](https://github.com/Santarsiere)
-- [@Carmine Martinelli](https://github.com/carm1ne123)
-- [@Mario DiLonardo](https://github.com/MarioBros2699) 
 
 
 ## License
